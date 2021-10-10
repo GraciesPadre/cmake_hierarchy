@@ -1,0 +1,4 @@
+"/Users/doomer/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5284.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Release -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/doomer/CLionProjects/mainAndLib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/doomer/CLionProjects/mainAndLib/cmake-build-release
